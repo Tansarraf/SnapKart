@@ -41,13 +41,13 @@ Watch Demo Video Here 👉 : https://youtu.be/eGUqwakfx-E
 ---
 
 ## Future Improvements 
-**1. Wishlist Functionality**
-**2. Order Tracking**
-**3. Seller Adding Products Functionality**
-**4. Email Notifications**
-**5. Order Cancel & Return Flow**
-**6. Admin Dashboard**
-**7. Improvements in UI/UX**
+- **1. Wishlist Functionality**
+- **2. Order Tracking**
+- **3. Seller Adding Products Functionality**
+- **4. Email Notifications**
+- **5. Order Cancel & Return Flow**
+- **6. Admin Dashboard**
+- **7. Improvements in UI/UX**
 
 ---
 
